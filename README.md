@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AliceQuen
 - 👀 I’m interested in ...High Energy Physics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...Electromagnetic Mechanics
+- 💞️ I’m looking to collaborate on ...Scattering Tomography
+- 📫 How to reach me ...Please send emails to qjk21@mails.tsinghua.edu.cn
 
 <!---
 AliceQuen/AliceQuen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
