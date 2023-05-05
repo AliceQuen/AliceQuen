@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AliceQuen
+- 👋 Hi, I’m @AliceQuen, an undergraduate student from Tsinghua Univ.
+My major is Physics. All people interested in Physics is welcomed!!
 - 👀 I’m interested in ...High Energy Physics
 - 🌱 I’m currently learning ...Electromagnetic Mechanics
 - 💞️ I’m looking to collaborate on ...Scattering Tomography
