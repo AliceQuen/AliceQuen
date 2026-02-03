@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AliceQuen, an undergraduate student from Tsinghua Univ.
+- 👋 Hi, I’m @AliceQuen, a graduted student(PhD) from Tsinghua Univ.
 I major in Physics. All people interested in Physics are welcomed!!
 - 👀 I’m interested in ...High Energy Physics
 - 🌱 I’m currently learning ...Electromagnetic Mechanics
-- 💞️ I’m looking to collaborate on ...Scattering Tomography
+- 💞️ I’m looking to collaborate on ...CMS Experienment
 - 📫 How to reach me ...Please send emails to qjk21@mails.tsinghua.edu.cn
 
 <!---
